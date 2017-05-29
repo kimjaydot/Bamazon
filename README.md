@@ -34,3 +34,5 @@ INSERT INTO products (item_id, product_name, department_name, price, stock_quant
 SELECT * FROM products;
 
 ```
+
+2. Run node bamazonCustomer.js in terminal
