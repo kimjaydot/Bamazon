@@ -4,7 +4,7 @@ Creating an Amazon-like storefront
 ## Instructions
 [Bamazon](https://kimjaydot.github.io/Bamazon)
 
-![Database Image](https://kimjaydot.github.io/images/database.png)
+![Database Image](https://github.com/kimjaydot/Bamazon/blob/master/images/database.png)
 
 1. Run database code
 ```
