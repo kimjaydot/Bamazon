@@ -1,5 +1,6 @@
 # Bamazon
-Creating an Amazon-like storefront 
+
+Looking for cheap things to order? Tired of Amazon? Who needs Prime, when we can deliver your order in less than 6 hours.
 
 # Cheaper than Amazon
 Order your stuff [Here](https://kimjaydot.github.io/Bamazon)
@@ -38,3 +39,11 @@ SELECT * FROM products;
 ```
 
 2. Run node bamazonCustomer.js in terminal
+
+
+## Technologies Used
+
+* MySQL
+* HTML
+* CSS
+
