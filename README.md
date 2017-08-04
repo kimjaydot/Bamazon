@@ -1,12 +1,12 @@
 # Bamazon
-Creating an Amazon-like storefront
+Creating an Amazon-like storefront 
 
-## Instructions
-Application in progress
-
-[Bamazon](https://kimjaydot.github.io/Bamazon)
+# Cheaper than Amazon
+Order your stuff [Here](https://kimjaydot.github.io/Bamazon)
 
 ![Database Image](https://raw.githubusercontent.com/kimjaydot/Bamazon/master/images/database.png)
+
+## Instructions
 
 1. Run database code
 ```
